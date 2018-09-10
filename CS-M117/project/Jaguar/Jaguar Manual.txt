@@ -1,0 +1,31 @@
+[Note: In the report there is a manual with screenshots. Here is a another detailed manual for our project, Jaguar Ride]
+
+How to Run Jaguar
+
+1. Decompress the .zip file.
+2. Start Android Studio
+3. Open the Jaguar project
+4. Sync project with Gradle files (sync button on top-right corner of the interface)
+5. Run the project, select virtual device model "Nexus 5X API 26"
+6. On the virtual device, allow Jaguar to access locations
+
+-- Start Jaguar App
+
+----------- Steps to Demonstrate Functionalities -------------
+7. Sign in as a rider. 
+(Username-password combinations:
+xuezhouyang pin: 12345
+yangpochao pin: 54321
+wangchengyu pin: 11111)
+
+8. Request a ride as a rider
+9. Go back to the log in page (without logging out)
+10. Sign in as a driver
+11. Accept the request on the request list
+12. Click on "Accept Request" to accept the request
+13. Modify the location using the emulator to inspect rider-side and driver-side behaviors
+14. Once the driver's location and rider's location become the same. The driver picks up the rider. The task is completed.
+
+If you don not want to follow the previous steps, you can also play around with the app to see every functionality of the our project.
+
+The screenshot of each step is in the report.
